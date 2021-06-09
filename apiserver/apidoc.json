@@ -1,0 +1,13 @@
+{
+    "name": "apiserver",
+    "version": "1.0.0",
+    "description": "apiserver 接口文档",
+    "title": "apiserver API",
+    "url": "",
+    "sampleUrl": "",
+    "forceLanguage": "zh-cn",
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}

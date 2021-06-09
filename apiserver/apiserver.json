@@ -1,0 +1,17 @@
+{
+    "apps": [{
+        "name": "radial_apiserver",
+        "script": "/home/node_server/radial_apiserver/apiserver.js",
+        "watch": true,
+        "ignore_watch": [
+            "node_modules",
+            "logs",
+            "bin",
+            "dist",
+            "uploads",
+            "ueditor-upload"
+        ],
+        "error_file": "./logs/pm2-err.log",
+        "log_date_format": "YYYY-MM-DD HH:mm:ss Z"
+    }]
+}

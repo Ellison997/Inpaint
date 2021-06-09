@@ -1,0 +1,21 @@
+.DS_Store
+node_modules/
+miniprogram_npm/
+___index_out/node_modules/
+___index_out/logs/
+logs/
+npm-debug.log
+yarn-error.log
+dist/
+dahuaImg/
+apidoc/
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode
+
+uploads/
